@@ -13,7 +13,8 @@ class Tiger(Animal):
         line_num = 1
         # ----- for loop -----
         for line in lines:
-            if line_num == 7:
+            # Get the tiger names from line 15
+            if line_num == 15:
                 list_of_tiger_names.extend(line.strip().split(', '))
                 # Exit the loop after processing the seventh line.
                 break

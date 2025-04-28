@@ -13,7 +13,8 @@ class Bear(Animal):
         line_num = 1
         # ----- for loop -----
         for line in lines:
-            if line_num == 7:
+            # Get the bear names from line 11
+            if line_num == 11:
                 list_of_bear_names.extend(line.strip().split(', '))
                 # Exit the loop after processing the seventh line.
                 break

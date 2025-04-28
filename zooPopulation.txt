@@ -16,14 +16,14 @@ Li004; 4 years old; Kiara; birthdate: 2021-03-21; tan and brown color; female; 2
 
 Tiger Habitat:
 
-Ti001; 2 years old; Scar; birthdate: 2023-03-21; gold and tan stripes color; male; 270 pounds; roar: Mew; from Dhaka, Bangladesh; arrived: 2025-04-27
-Ti002; 4 years old; Mufasa; birthdate: 2021-03-21; black stripes color; female; 400 pounds; roar: Meowww; from Dhaka, Bangladesh; arrived: 2025-04-27
-Ti003; 18 years old; Simba; birthdate: 2007-09-21; gold and tan color; male; 300 pounds; roar: Mrrrrew!; from Bardia, Nepal; arrived: 2025-04-27
-Ti004; 3 years old; Kiara; birthdate: 2022-03-21; black stripes color; female; 285 pounds; roar: Mew! Mew!; from Bardia, Nepal; arrived: 2025-04-27
+Ti001; 2 years old; Tony; birthdate: 2023-03-21; gold and tan stripes color; male; 270 pounds; roar: Mew; from Dhaka, Bangladesh; arrived: 2025-04-27
+Ti002; 4 years old; Tigger; birthdate: 2021-03-21; black stripes color; female; 400 pounds; roar: Meowww; from Dhaka, Bangladesh; arrived: 2025-04-27
+Ti003; 18 years old; Amber; birthdate: 2007-09-21; gold and tan color; male; 300 pounds; roar: Mrrrrew!; from Bardia, Nepal; arrived: 2025-04-27
+Ti004; 3 years old; Cosimia; birthdate: 2022-03-21; black stripes color; female; 285 pounds; roar: Mew! Mew!; from Bardia, Nepal; arrived: 2025-04-27
 
 Bear Habitat:
 
-Be001; 7 years old; Scar; birthdate: 2018-03-21; brown color; male; 320 pounds; roar: Grrrrr; from Alaska Zoo, Alaska; arrived: 2025-04-27
-Be002; 25 years old; Mufasa; birthdate: 2000-03-21; black color; female; 425 pounds; roar: RrrrRrrr; from Woodland park Zoo, Washington; arrived: 2025-04-27
-Be003; 4 years old; Simba; birthdate: 2021-09-21; black color; female; 355 pounds; roar: Gruff!; from Woodland park Zoo, Washington; arrived: 2025-04-27
-Be004; 4 years old; Kiara; birthdate: 2021-03-21; brown color; male; 405 pounds; roar: Rrruff; from Alaska Zoo, Alaska; arrived: 2025-04-27
+Be001; 7 years old; Yogi; birthdate: 2018-03-21; brown color; male; 320 pounds; roar: Grrrrr; from Alaska Zoo, Alaska; arrived: 2025-04-27
+Be002; 25 years old; Smokey; birthdate: 2000-03-21; black color; female; 425 pounds; roar: RrrrRrrr; from Woodland park Zoo, Washington; arrived: 2025-04-27
+Be003; 4 years old; Paddington; birthdate: 2021-09-21; black color; female; 355 pounds; roar: Gruff!; from Woodland park Zoo, Washington; arrived: 2025-04-27
+Be004; 4 years old; Lippy; birthdate: 2021-03-21; brown color; male; 405 pounds; roar: Rrruff; from Alaska Zoo, Alaska; arrived: 2025-04-27
