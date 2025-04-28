@@ -1,0 +1,29 @@
+******** Zoo Population and Habitat Assignment Report ********
+
+Hyena Habitat:
+
+Hy001; 4 years old; Shenzi; birthdate: 2021-03-21; tan color; female; 70 pounds; laugh: haha; from Friguia Park, Tunisia; arrived: 2025-04-27
+Hy002; 12 years old; Banzai; birthdate: 2013-09-21; brown color; male; 150 pounds; laugh: hehe; from Friguia Park, Tunisia; arrived: 2025-04-27
+Hy003; 4 years old; Ed; birthdate: 2021-03-21; black color; male; 120 pounds; laugh: xaxa; from Friguia Park, Tunisia; arrived: 2025-04-27
+Hy004; 8 years old; Zig; birthdate: 2017-01-01; black and tan striped color; female; 105 pounds; laugh: chacha; from Friguia Park, Tunisia; arrived: 2025-04-27
+
+Lion Habitat:
+
+Li001; 6 years old; Scar; birthdate: 2019-03-21; tan color; female; 300 pounds; roar: Roarrr; from Zanzibar, Tanzania; arrived: 2025-04-27
+Li002; 12 years old; Mufasa; birthdate: 2013-12-21; dark tan color; female; 375 pounds; roar: RoooarRoooar; from KopeLion, Tanzania; arrived: 2025-04-27
+Li003; 22 years old; Simba; birthdate: 2003-09-21; golden color; male; 450 pounds; roar: Roaaar!; from Zanzibar, Tanzania; arrived: 2025-04-27
+Li004; 4 years old; Kiara; birthdate: 2021-03-21; tan and brown color; female; 275 pounds; roar: Rrrrroarrrr; from KopeLion, Tanzania; arrived: 2025-04-27
+
+Tiger Habitat:
+
+Ti001; 2 years old; Scar; birthdate: 2023-03-21; gold and tan stripes color; male; 270 pounds; roar: Mew; from Dhaka, Bangladesh; arrived: 2025-04-27
+Ti002; 4 years old; Mufasa; birthdate: 2021-03-21; black stripes color; female; 400 pounds; roar: Meowww; from Dhaka, Bangladesh; arrived: 2025-04-27
+Ti003; 18 years old; Simba; birthdate: 2007-09-21; gold and tan color; male; 300 pounds; roar: Mrrrrew!; from Bardia, Nepal; arrived: 2025-04-27
+Ti004; 3 years old; Kiara; birthdate: 2022-03-21; black stripes color; female; 285 pounds; roar: Mew! Mew!; from Bardia, Nepal; arrived: 2025-04-27
+
+Bear Habitat:
+
+Be001; 7 years old; Scar; birthdate: 2018-03-21; brown color; male; 320 pounds; roar: Grrrrr; from Alaska Zoo, Alaska; arrived: 2025-04-27
+Be002; 25 years old; Mufasa; birthdate: 2000-03-21; black color; female; 425 pounds; roar: RrrrRrrr; from Woodland park Zoo, Washington; arrived: 2025-04-27
+Be003; 4 years old; Simba; birthdate: 2021-09-21; black color; female; 355 pounds; roar: Gruff!; from Woodland park Zoo, Washington; arrived: 2025-04-27
+Be004; 4 years old; Kiara; birthdate: 2021-03-21; brown color; male; 405 pounds; roar: Rrruff; from Alaska Zoo, Alaska; arrived: 2025-04-27
